@@ -4,9 +4,9 @@
 
 This sample demonstrates how to customize dialog editing in the Syncfusion [Blazor TreeGrid](https://www.syncfusion.com/blazor-components/blazor-tree-grid) component using edit templates. Instead of relying on the default edit dialog layout, the implementation provides a customized dialog interface that allows developers to control the editors, layout, and user experience presented during add and edit operations. This approach is useful when additional validation, custom input controls, or business-specific editing workflows are required for hierarchical data maintained through the TreeGrid.
 
-**Documentation**: https://blazor.syncfusion.com/documentation/treegrid/editing/template-editing
+**Documentation**: https://help.syncfusion.com/grid-sdk/blazor/tree-grid/editing/template-editing
 
-**Online examples**: https://blazor.syncfusion.com/demos/tree-grid/dialog-editing?theme=bootstrap4
+**Online examples**:https://blazor.syncfusion.com/demos/tree-grid/dialog-editing?theme=bootstrap5
 
 ## Key Features
 
